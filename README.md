@@ -4,6 +4,10 @@
 
 **如果你认为本项目帮到了您，请给我一颗 Star！并告诉身边的、线上的朋友，推荐本项目。谢谢！**
 
+## 做出贡献
+
+若**宽带速率 >= 200Mbps**，请您使用 [Better Cloudflare IP](https://github.com/badafans/better-cloudflare-ip) 工具，测试出你本地最适合的IP(期望速率应大于100Mbps)，然后使用 Telegram 联系我 (@Baoyh)。
+
 ## 速度测试
 
 优选不一定真的优，最好的选择方案：测一遍！总有适合你网络环境的节点！
