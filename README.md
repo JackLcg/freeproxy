@@ -27,4 +27,5 @@ https://proxy.freecdn.workers.dev/?url=https://github.com/oier-byh/freeproxy/raw
 ## 更新日志
 
 2020/10/04 新上起飞节点一个，非 AWS EC。
-2020/10/04 采用临时邮箱注册 Cloudflare Workers 账号
+
+2020/10/04 开始采用临时邮箱注册 Cloudflare Workers 账号
