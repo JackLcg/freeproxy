@@ -20,7 +20,9 @@ https://proxy.freecdn.workers.dev/?url=https://github.com/oier-byh/freeproxy/raw
 
 优选不一定真的优，最好的选择方案：测一遍！总有适合你网络环境的节点！
 
-*2020/10/04 20:00 晚高峰 浙江电信千兆测速*
+2020/10/04 20:00 晚高峰 浙江电信千兆测速 （测速图未加后续的起飞节点，油管图是起飞节点的速度）
+
+![](https://3o.hk/images/2020/10/04/image9209fa5a7fc2db59.md.png)
 
 ![](https://3o.hk/images/2020/10/04/image.png)
 
