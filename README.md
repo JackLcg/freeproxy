@@ -30,6 +30,8 @@ https://proxy.freecdn.workers.dev/?url=https://github.com/oier-byh/freeproxy/raw
 
 ## 更新日志
 
+2020/10/07 删除低速节点。
+
 2020/10/05 增加美国节点 C
 
 2020/10/04 新上起飞节点一个，非 AWS EC2。
