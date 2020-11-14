@@ -30,6 +30,8 @@ https://proxy.freecdn.workers.dev/?url=https://github.com/oier-byh/freeproxy/raw
 
 ## 更新日志
 
+2020/11/14 恢复更新，上线 AGA 中转急速节点。
+
 2020/10/07 删除低速节点。
 
 2020/10/05 增加美国节点 C
