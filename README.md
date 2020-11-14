@@ -8,11 +8,31 @@ SS/SSR订阅收集于互联网，若侵权可联系我！
 
 ## 订阅链接
 
+```
+https://sub.cm/5czpwyb
+```
+
 **V2Ray, Base64 (适用于 v2rayN, v2rayNG, Qv2ray, trojan-qt5 等软件)**
 
 ```
-https://proxy.freecdn.workers.dev/?url=https://github.com/oier-byh/freeproxy/raw/main/all.sub
+Simple Link:
+https://sub.id9.cc/sub?target=v2ray&url=https%3A%2F%2Fgithub.com%2Foier-byh%2Ffreeproxy%2Fraw%2Fmain%2Fall.sub&insert=false
+
+Short Link:
+https://sub.cm/5czpwyb
 ```
+
+**Clash, Rule (适用于 Clash for Android, Clash for Windows, ClashX 等软件)**
+
+```
+Simple Link:
+https://sub.id9.cc/sub?target=clash&url=https%3A%2F%2Fgithub.com%2Foier-byh%2Ffreeproxy%2Fraw%2Fmain%2Fall.sub&insert=false&config=%E5%93%81%E4%BA%91%E4%B8%93%E5%B1%9E%E9%85%8D%E7%BD%AE&filename=FreeProxy&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false&new_name=true
+
+Short Link:
+https://sub.cm/4EjqEr9
+```
+
+
 
 ## 做出贡献
 
