@@ -6,9 +6,7 @@
 
 ## 订阅链接
 
-```
-https://sub.cm/5czpwyb
-```
+[**一键导入 Clash**](clash://install-config?url=https%3A%2F%2Fsub.id9.cc%2Fsub%3Ftarget%3Dclash%26url%3Dhttps%253A%252F%252Fsub.cm%252F5czpwyb%257C%26insert%3Dfalse%26config%3D%25E5%2593%2581%25E4%25BA%2591%25E4%25B8%2593%25E5%25B1%259E%25E9%2585%258D%25E7%25BD%25AE%26emoji%3Dtrue%26list%3Dfalse%26udp%3Dfalse%26tfo%3Dfalse%26scv%3Dfalse%26fdn%3Dfalse%26sort%3Dfalse%26new_name%3Dtrue)
 
 **V2Ray, Base64 (适用于 v2rayN, v2rayNG, Qv2ray, trojan-qt5 等软件)**
 
