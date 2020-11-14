@@ -25,11 +25,21 @@ https://sub.cm/5czpwyb
 **Clash, Rule (适用于 Clash for Android, Clash for Windows, ClashX 等软件)**
 
 ```
-Simple Link:
-https://sub.id9.cc/sub?target=clash&url=https%3A%2F%2Fgithub.com%2Foier-byh%2Ffreeproxy%2Fraw%2Fmain%2Fall.sub&insert=false&config=%E5%93%81%E4%BA%91%E4%B8%93%E5%B1%9E%E9%85%8D%E7%BD%AE&filename=FreeProxy&emoji=true&list=false&udp=false&tfo=false&scv=false&fdn=false&sort=false&new_name=true
-
 Short Link:
 https://sub.cm/4EjqEr9
+```
+
+**Surge**
+
+```
+Surge 2 Short Link:
+https://sub.cm/sBJ6RKs
+
+Surge 3 Short Link:
+https://sub.cm/qNZwiUH
+
+Surge 4 Short Link:
+https://sub.cm/DXS7dAT
 ```
 
 
